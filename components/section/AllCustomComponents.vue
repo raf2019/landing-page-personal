@@ -32,53 +32,53 @@ import ContactForm from './contact/Contact.vue';
     <!----Header Text----->
     <HeaderText />
     <!----Navigation 1----->
-    <Navigation1 />
+    <!-- <Navigation1 /> -->
     <!----Navigation 2----->
-    <Navigation2 />
+    <!-- <Navigation2 /> -->
     <!----Banner Text----->
-    <BannerText/>
+    <!-- <BannerText/> -->
     <!----Brand Banner----->
     <BrandBanner/>    
     <!----Work Banner----->
-    <WorkBanner/>
+    <!-- <WorkBanner/> -->
     <!----Form Banner----->
-    <FormBannerText/>
+    <!-- <FormBannerText/> -->
     <!----Form Email Banner----->
-    <FormBannerInput/>
+    <!-- <FormBannerInput/> -->
     <!----Feature Text----->
     <FeatureText/>
     <!----Feature 1----->
-    <Feature1/>
+    <!-- <Feature1/> -->
     <!----Feature 2----->
-    <Feature2/>
+    <!-- <Feature2/> -->
     <!----Feature 3----->
-    <Feature3/>
+    <!-- <Feature3/> -->
     <!----Portfolio Text----->
-    <PortfolioText/>
+    <!-- <PortfolioText/> -->
     <!----Portfolio----->
-    <Portfolio/>
-    <!----Price Text----->
-    <PriceText/>
+    <!-- <Portfolio/> -->
+    <!-- --Price Text--- -->
+    <!-- <PriceText/> -->
     <!----Pricing Plans----->
-    <PricingPlans/>
+    <!-- <PricingPlans/> -->
     <!----Team Text----->
-    <TeamText/>
+    <!-- <TeamText/> -->
     <!----Team----->
-    <Team/>
+    <!-- <Team/> -->
     <!----Testimonials Text----->
-    <TestimonialText/>
+    <!-- <TestimonialText/> -->
     <!----Testimonials Quotes----->
-    <Testimonial/>
+    <!-- <Testimonial/> -->
     <!----Blog ----->
-    <Blog/>
+    <!-- <Blog/> -->
     <!----Call To Action ----->
-    <CallActionText/>
+    <!-- <CallActionText/> -->
     <!----Ask Questions ----->
-    <CallActionAsk/>
+    <!-- <CallActionAsk/> -->
     <!----Apps ----->
-    <AppsButton/>
+    <!-- <AppsButton/> -->
     <!----Contact Text ----->
-    <ContactText/>
+    <!-- <ContactText/> -->
     <!----Contact Form ----->
-    <ContactForm/>
+    <!-- <ContactForm/> -->
 </template>

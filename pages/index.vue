@@ -12,6 +12,6 @@ import AllCustomComponents from '@/components/section/AllCustomComponents.vue';
     <!-------All Components-------->
     <AllCustomComponents/>
     <!----Commingsoon ----->
-    <CommingSoon/>
+    <!-- <CommingSoon/> -->
   </div>
 </template>

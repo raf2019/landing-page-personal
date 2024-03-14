@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref } from "vue";
-const drawer = ref(null);
+const drawer = ref(false);
 </script>
 <template>
   <div>
